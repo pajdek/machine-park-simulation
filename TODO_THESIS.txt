@@ -1,0 +1,8 @@
+1. Prepare MachineProcess CLI launcher using library argparse.
+2. Write unittests for MachineProcess.
+3. Raise exception when sensor is unplugged or damaged and inform about it on esp8266 OLED.
+
+07.04.2017
+3 - DONE
+1 - 70%
+2 - 0%
